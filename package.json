@@ -1,0 +1,24 @@
+{
+  "name": "bold-servers-express",
+  "version": "1.0.0",
+  "description": "Demo for Bold Tech Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ."
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Jesus Cirion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6"
+  }
+}
